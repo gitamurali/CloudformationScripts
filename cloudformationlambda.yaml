@@ -4,7 +4,7 @@ Description: |
 Parameters: 
   instances: 
     Default: ami-015341b409a8d527b, ami-0dc24d9a345743a1b
-    Description: Instance ID's seperated by commers 
+    Description: Instance ID's seperated by cama 
     Type: String
   Region:
     Default: us-east-1 
