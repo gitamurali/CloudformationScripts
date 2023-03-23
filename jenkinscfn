@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Create my first EC2 instance using cloudformation and installing apache.
+Description: Create my first Jenkins instance using cloudformation.
 Parameters:
   Imageid: 
     Default: ami-0b0dcb5067f052a63
